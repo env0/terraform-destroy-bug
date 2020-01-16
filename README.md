@@ -1,5 +1,5 @@
 ## Terraform fails to `apply` a `plan` to `-destroy` but able to `terraform destroy`
-This repository is meant to recreate a potential bug in Terraform (12.0.19).  
+This repository is meant to recreate a potential bug in Terraform (tested in both 12.0.18 and 12.0.19).  
 
 ## Steps to reproduce
 1. Place a `credentials.json` with your google account.
